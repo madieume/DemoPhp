@@ -1,0 +1,17 @@
+{
+    "name": "madieume/demo-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Madieume\\DemoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Madieume"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
